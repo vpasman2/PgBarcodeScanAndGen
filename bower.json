@@ -1,0 +1,8 @@
+{
+  "name": "BarcodeScanner",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-rc.3",
+    "ngCordova": "driftyco/ng-cordova~0.1.15-alpha"
+  }
+}
